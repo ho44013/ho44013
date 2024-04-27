@@ -1,4 +1,19 @@
-### Hi there 👋
+<!-- 기술 스택 작성. -->
+<h3 align="center"> ✨ Tech stack </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+<--! 공부 중인 것들 작성. -->
+<h3 align="center"> 🌱 Studying With </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+</div>
+
 
 <!--
 **ho44013/ho44013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
